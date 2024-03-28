@@ -1,0 +1,158 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+
+.container{
+    margin: auto;
+    width: 1029px;
+}
+#menu{
+    display: block;
+    background-color: #162028;
+    height: 50px;
+
+}
+
+#barra-menu{
+    background-image: url(../imagens/topo.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    
+
+}
+
+
+header img{
+    float: left;
+    margin-left: 200px;
+    margin-top: 5px;
+}
+
+.inicio{
+    display: inline-block;
+    margin-top: 20px;
+    color:white;
+    padding: 0px;
+    margin-left: 20px;
+    
+}
+
+nav{
+    width: 1024px;
+}
+
+nav ul {
+    
+    margin-left: 640px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+}
+
+nav ul li {
+    font-size: 10px;
+    padding-left: 55px;
+
+}
+
+nav ul a{
+    text-decoration: none;
+    color:white;
+
+
+}
+
+nav ul a:hover{
+    background-color: rgb(6,57,112);
+}
+
+article h1{
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+article p{
+    width: 86%;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 14px;
+    color:gray;
+    margin:auto;
+    line-height: 1.5;
+   
+
+}
+
+.card{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 90px;
+   
+}
+
+section p{
+    text-align: center;
+    
+}
+
+
+
+.conteudo-2{
+    color:white;
+    box-sizing: border-box;
+    padding: 100px 100px 100px 100px ;
+    margin-top:100px;
+    height: 580px;
+    background-image: url(../imagens/bg_detalhe.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    
+   
+
+}
+
+section div h1{
+    text-transform: uppercase;
+   font-size: 45px;
+   width: 90%;
+}
+
+
+.paragrafo-azul{
+    width: 60%;
+    line-height: 25px;
+}
+
+div h2{
+text-align: center;
+color:rgb(5, 5, 49);
+text-transform: uppercase;
+font-size: 20px;
+margin-top: 40px;
+
+}
+
+.footer{
+    margin-top:30px;
+    height: 50px;
+    color:white;
+    text-align: center;
+    background-color:#162028;
+    margin-bottom: 50px;
+}
+
+#texto-final{
+    font-size: 15px;
+    padding-top: 15px;
+    letter-spacing: 5px;
+   
+    
+}
